@@ -1,3 +1,5 @@
+mod sample_struct;
+
 use std::io;
 
 fn main() {
@@ -37,6 +39,8 @@ fn main() {
         println!();
 
     }
+
+
 
 }
 
